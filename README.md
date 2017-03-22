@@ -1,0 +1,2 @@
+# MyRoundedImage
+一个可定制圆角位置的自定义ImageView控件
